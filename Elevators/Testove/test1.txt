@@ -1,0 +1,25 @@
+1 10
+call down 1 1
+call up 1 2
+call up 1 5
+call down 1 6
+call up 1 7
+go 1 8
+call up 1 9
+go 1 12
+go 1 13
+go 1 14
+
+
+
+result:
+1 1 down
+2 1 down
+5 1 down
+6 1 down
+7 1 down
+8 1 down
+9 1 down
+12 1 down
+13 1 down
+14 1 down

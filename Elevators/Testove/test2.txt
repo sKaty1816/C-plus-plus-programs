@@ -1,0 +1,5 @@
+10 1
+call down 5 1
+
+result:
+21 5 up
